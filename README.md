@@ -1,6 +1,6 @@
 <h1 align="center">LLM Defender Subnet (SN14)</h1>
 <h4 align="center">| <a href="https://docs.synapsec.ai">Documentation</a> | </h4>
-> [!CAUTION]
+> [!WARNING]
 > This codebase has been archived. We are working on a brand-new architecture for the subnet, meaning the existing codebase should not be used.
 
 # Introduction
